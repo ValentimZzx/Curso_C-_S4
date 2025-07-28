@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Structs/bin/Debug/net8.0/Structs
+/home/nicolas/Documentos/Curso C#/Structs/bin/Debug/net8.0/Structs.deps.json
+/home/nicolas/Documentos/Curso C#/Structs/bin/Debug/net8.0/Structs.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Structs/bin/Debug/net8.0/Structs.dll
+/home/nicolas/Documentos/Curso C#/Structs/bin/Debug/net8.0/Structs.pdb
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.dll
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/refint/Structs.dll
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.pdb
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/Structs.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Structs/obj/Debug/net8.0/ref/Structs.dll
