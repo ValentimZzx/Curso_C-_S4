@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Partial-Class/bin/Debug/net8.0/Partial-Class
+/home/nicolas/Documentos/Curso C#/Partial-Class/bin/Debug/net8.0/Partial-Class.deps.json
+/home/nicolas/Documentos/Curso C#/Partial-Class/bin/Debug/net8.0/Partial-Class.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Partial-Class/bin/Debug/net8.0/Partial-Class.dll
+/home/nicolas/Documentos/Curso C#/Partial-Class/bin/Debug/net8.0/Partial-Class.pdb
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.dll
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/refint/Partial-Class.dll
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.pdb
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/Partial-Class.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Partial-Class/obj/Debug/net8.0/ref/Partial-Class.dll

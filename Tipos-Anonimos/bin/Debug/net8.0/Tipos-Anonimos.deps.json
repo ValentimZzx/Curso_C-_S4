@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tipos-Anonimos/1.0.0": {
+        "runtime": {
+          "Tipos-Anonimos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tipos-Anonimos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/bin/Debug/net8.0/Tratamento-De-Erros
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/bin/Debug/net8.0/Tratamento-De-Erros.deps.json
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/bin/Debug/net8.0/Tratamento-De-Erros.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/bin/Debug/net8.0/Tratamento-De-Erros.dll
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/bin/Debug/net8.0/Tratamento-De-Erros.pdb
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.dll
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/refint/Tratamento-De-Erros.dll
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.pdb
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/Tratamento-De-Erros.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Tratamento-De-Erros/obj/Debug/net8.0/ref/Tratamento-De-Erros.dll

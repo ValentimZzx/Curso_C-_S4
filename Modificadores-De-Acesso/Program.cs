@@ -1,10 +1,15 @@
-﻿Console.WriteLine("=== Modificadores de Acesso ===");
+﻿using _19ModificadoresAcesso;
+
+Console.WriteLine("=== Modificadores de Acesso ===");
 
 
 
 
 Console.ReadKey();
 
-namespace _19ModificadoresAcesso
-{
-}
+MinhaClasse minhaclasse = new();
+
+
+MinhaStruct minhastruct = new();
+
+MinhaEnum minhaEnum = new();

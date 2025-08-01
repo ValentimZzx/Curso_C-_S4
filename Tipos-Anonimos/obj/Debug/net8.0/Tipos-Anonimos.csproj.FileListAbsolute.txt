@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/bin/Debug/net8.0/Tipos-Anonimos
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/bin/Debug/net8.0/Tipos-Anonimos.deps.json
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/bin/Debug/net8.0/Tipos-Anonimos.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/bin/Debug/net8.0/Tipos-Anonimos.dll
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/bin/Debug/net8.0/Tipos-Anonimos.pdb
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.dll
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/refint/Tipos-Anonimos.dll
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.pdb
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/Tipos-Anonimos.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Tipos-Anonimos/obj/Debug/net8.0/ref/Tipos-Anonimos.dll

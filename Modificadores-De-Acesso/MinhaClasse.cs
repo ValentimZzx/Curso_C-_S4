@@ -1,8 +1,3 @@
-
-
-
-
-
 namespace _19ModificadoresAcesso
 {
     internal class MinhaClasse
